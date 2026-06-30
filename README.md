@@ -1,4 +1,5 @@
-IMPORTANT!
+### IMPORTANT!
+
 Lag can play a huge factor in consistency, especially with event-based Ultra bosses such as UltraSpeaker or UltraGramiel. 
 
 If you are experiencing heavy lag, it is highly recommended to switch servers or try running UltraSpeaker and UltraGramiel at another time.
