@@ -305,7 +305,7 @@ public class UltraEnhancements
                 Adv.EnhanceEquipped(
                     type: EnhancementType.Healer,
                     hSpecial: HelmSpecial.Forge,
-                    wSpecial: Adv.uElysium() ? WeaponSpecial.Elysium : WeaponSpecial.Spiral_Carve,
+                    wSpecial: Adv.uElysium() ? WeaponSpecial.Elysium : WeaponSpecial.Mana_Vamp,
                     cSpecial: CapeSpecial.Lament
                 );
                 break;
