@@ -1,3 +1,10 @@
+IMPORTANT!
+Lag can play a huge factor in consistency, especially with event-based Ultra bosses such as UltraSpeaker or UltraGramiel. 
+
+If you are experiencing heavy lag, it is highly recommended to switch servers or try running UltraSpeaker and UltraGramiel at another time.
+
+Now, if the whole week you're lagging, try to run Ultras-v2 and hope for the best.
+
 ## Prerequisites & Requirements
 
 Before running Ultras-v3, ensure you have the required classes, enhancements, and damage boosts unlocked on your account.
