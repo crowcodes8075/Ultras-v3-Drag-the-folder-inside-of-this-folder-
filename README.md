@@ -21,8 +21,8 @@ You must own the following classes:
 
 ### Damage Boosts
 *   **Weapon:** Minimum **40% damage** boost to all monsters.
-*   **Armor/Pet:** Minimum **30% damage** boost to all monsters.
-*   *Example Setup:* Hollowborn Reaper's Scythe + ArchFiend DoomLord.
+*   **Armor/Pet:** Minimum **30% damage** boost to race monsters.
+*   *Example Setup:* Hollowborn Reaper's Scythe + ArchFiend DeathLord.
 
 ### Reputation
 * Rank 8 Alchemy
