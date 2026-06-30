@@ -24,6 +24,10 @@ You must own the following classes:
 *   **Armor/Pet:** Minimum **30% damage** boost to all monsters.
 *   *Example Setup:* Hollowborn Reaper's Scythe + ArchFiend DoomLord.
 
+### Reputation
+* Rank 8 Alchemy
+* Rank 10 Good
+
 ---
 
 ## How to use Ultras-v3
