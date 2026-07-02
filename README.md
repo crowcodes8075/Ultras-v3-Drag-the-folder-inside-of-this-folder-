@@ -6,9 +6,13 @@ If you are experiencing heavy lag, it is highly recommended to switch servers or
 
 Now, if the whole week you're lagging, try to run Ultras-v2 and hope for the best.
 
-## Prerequisites & Requirements
+## Prerequisites & Requirements (ALSO REALLY IMPORTANT)
+
+To get started run the scripts Farmerjoe, Verus DoomKnight (to get the class), and ArchFiend DeathLord (AFDL2).
 
 Before running Ultras-v3, ensure you have the required classes, enhancements, and damage boosts unlocked on your account.
+
+Make sure these classes are rank 10.
 
 ### Required Classes
 You must own the following classes:
