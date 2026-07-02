@@ -1,3 +1,7 @@
+### REALLY REALLY IMPORTANT
+
+If you're running DoAllUltras, use Skua, not VibeSkua, as I've only tested the scripts in Skua, and there has been reports that it breaks in VibeSkua, switching to Skua fixes it.
+
 ### IMPORTANT!
 
 Lag can play a huge factor in consistency, especially with event-based Ultra bosses such as UltraSpeaker or UltraGramiel. 
