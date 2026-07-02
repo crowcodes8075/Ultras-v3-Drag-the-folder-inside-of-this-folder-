@@ -6,6 +6,12 @@ If you are experiencing heavy lag, it is highly recommended to switch servers or
 
 Now, if the whole week you're lagging, try to run Ultras-v2 and hope for the best.
 
+### SECOND IMPORTANT MESSAGE
+
+Before running ultras, make sure you start from manager, or start fresh.
+
+After you're done running DoAllUltras, or running the scripts in Individual Ultras, make sure to exit your clients after.
+
 ## Prerequisites & Requirements (ALSO REALLY IMPORTANT)
 
 To get started run the scripts Farmerjoe, Verus DoomKnight (to get the class), and ArchFiend DeathLord (AFDL2).
