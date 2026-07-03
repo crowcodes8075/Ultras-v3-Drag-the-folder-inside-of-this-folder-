@@ -27,6 +27,7 @@ Make sure these classes are rank 10.
 ### Required Classes
 You must own the following classes:
 *   Verus DoomKnight
+*   Shaman
 *   Lord of Order
 *   StoneCrusher
 *   King's Echo
