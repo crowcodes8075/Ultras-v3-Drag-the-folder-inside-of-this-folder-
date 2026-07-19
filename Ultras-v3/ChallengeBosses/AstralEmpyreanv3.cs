@@ -307,6 +307,7 @@ public class AstralEmpyreanv3
                 Bot.Events.ExtensionPacketReceived -= AstralZoneListener;
                 UltraGeneral.CompleteQuest(Bot, questId);
                 Bot.Sleep(3000);
+                _deathRetries = MaxDeathRetries;
                 break;
             }
 
